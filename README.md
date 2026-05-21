@@ -1,101 +1,43 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0f0c29,50:302b63,100:24243e&text=Raul%20Ramirez&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Developer%20%7C%20Creative%20Mind%20%7C%20Urban%20Artist&descAlignY=55"/>
+# Raul Ramirez
 
-<br>
+### Developer • Creative Mind • Learning Every Day
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&multiline=true&width=900&height=120&lines=💻+Construyendo+proyectos+reales;🚀+Aprendiendo+y+mejorando+cada+día;🎵+Tecnología+y+música+en+la+misma+mentalidad;⚡+Disciplina+%2B+Consistencia+%3D+Resultados" />
-
-<br>
-
-<img src="https://img.shields.io/github/followers/TU_USUARIO?style=for-the-badge&color=00F7FF&labelColor=1a1a1a"/>
-<img src="https://img.shields.io/github/stars/TU_USUARIO?style=for-the-badge&color=00F7FF&labelColor=1a1a1a"/>
-<img src="https://komarev.com/ghpvc/?username=TU_USUARIO&style=for-the-badge&color=00F7FF"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+projects...;Learning+new+technologies...;Trying+to+improve+every+day" />
 
 </div>
 
 ---
 
-# ⚡ Sobre mí
+## Sobre mí
 
-<img align="right" alt="Coding" width="320" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdW9pbXJmYTR2c2s2N3M5bWNnNm9jN3B4eXh4ZmR2YXh2a2h2a3A1aSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif">
+Soy un desarrollador que disfruta construir cosas, aprender tecnologías nuevas y mejorar constantemente.  
+Me interesa especialmente el desarrollo web, el backend, la automatización y la inteligencia artificial.
 
-```js
-const raul = {
-    name: "Raul Ramirez",
-    location: "España 🇪🇸",
-    role: "Developer",
-    
-    code: [
-        "JavaScript",
-        "Python",
-        "HTML",
-        "CSS"
-    ],
+Además del código, también me gusta la música urbana y todo lo relacionado con la creatividad digital.
 
-    technologies: {
-        frontend: [
-            "HTML5",
-            "CSS3",
-            "Bootstrap",
-            "JavaScript"
-        ],
-
-        backend: [
-            "Node.js",
-            "Python"
-        ],
-
-        database: [
-            "MySQL"
-        ],
-
-        tools: [
-            "Git",
-            "GitHub",
-            "VS Code"
-        ]
-    },
-
-    interests: [
-        "Desarrollo Web",
-        "Automatización",
-        "IA",
-        "Backend",
-        "Música Urbana"
-    ],
-
-    currentFocus: "Convertirme en un desarrollador fullstack sólido",
-
-    philosophy: [
-        "La disciplina gana a la motivación",
-        "Aprender haciendo",
-        "Construir > Consumir"
-    ]
-};
-```
-
-<br clear="right"/>
+Actualmente estoy enfocado en:
+- mejorar como desarrollador fullstack
+- crear proyectos más completos
+- aprender tecnologías modernas
+- desarrollar disciplina y consistencia
 
 ---
 
-# 🛠️ Stack Tecnológico
+## Tecnologías
 
 <div align="center">
 
-## 🚀 Lenguajes
+<img src="https://skillicons.dev/icons?i=html,css,js,python,nodejs,bootstrap,mysql,git,github,vscode" />
 
-<img src="https://skillicons.dev/icons?i=js,python,html,css" />
-
----
-
-## ⚙️ Frameworks y herramientas
-
-<img src="https://skillicons.dev/icons?i=nodejs,bootstrap,mysql,git,github,vscode" />
+</div>
 
 ---
 
-## 📚 Actualmente aprendiendo
+## Aprendiendo ahora
+
+<div align="center">
 
 <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,mongodb,docker" />
 
@@ -103,110 +45,56 @@ const raul = {
 
 ---
 
-# 📊 GitHub Analytics
+## GitHub Stats
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF&text_color=FFFFFF"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=github_dark&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=FFFFFF"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=github_dark&hide_border=true"/>
 
 </div>
 
 ---
 
-# 🔥 Contribution Streak
+## Contribution Streak
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=TU_USUARIO&theme=tokyonight&hide_border=true&background=0D1117&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF"/>
+<img src="https://streak-stats.demolab.com?user=TU_USUARIO&theme=github-dark-blue&hide_border=true"/>
 
 </div>
 
 ---
 
-# 🧠 Mentalidad
+## Objetivos
 
-<div align="center">
-
-| Mentalidad | Enfoque |
-|---|---|
-| 📈 Mejora constante | Aprender cada día |
-| ⚡ Acción | Construir proyectos reales |
-| 🧠 Disciplina | Consistencia a largo plazo |
-| 🚀 Ambición | Crear algo grande |
-
-</div>
+- Seguir aprendiendo desarrollo backend
+- Crear proyectos reales y útiles
+- Mejorar mi lógica y estructura de código
+- Aprender más sobre IA y automatización
+- Construir una buena base como developer
 
 ---
 
-# 🎯 Objetivos 2026
-
-```txt
-✔ Mejorar backend
-✔ Dominar JavaScript
-✔ Aprender React y Next.js
-✔ Crear proyectos completos
-✔ Construir una marca personal
-✔ Mejorar en automatización e IA
-✔ Seguir creciendo en la música
-```
-
----
-
-# 🌐 Redes y contacto
+## Contacto
 
 <div align="center">
 
 <a href="https://github.com/TU_USUARIO">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://instagram.com/TU_USUARIO">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-
-<a href="mailto:TU_EMAIL">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
 </div>
 
 ---
 
-# 🎵 Más allá del código
-
-```txt
-💻 Código durante el día
-🎵 Música durante la noche
-🚀 Construyendo habilidades constantemente
-🧠 Mentalidad enfocada en crecimiento
-```
-
----
-
-# 🐍 Contribution Snake
-
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/TU_USUARIO/TU_USUARIO/output/snake.svg" alt="Snake animation"/>
-
-</div>
-
----
-
-# 💬 Frase
-
-<div align="center">
-
-## “El progreso silencioso siempre termina haciendo ruido.”
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:24243e,50:302b63,100:0f0c29&section=footer"/>
+> “La disciplina siempre termina superando a la motivación.”
 
 </div>
