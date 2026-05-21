@@ -1,39 +1,76 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0d1117,100:1f6feb&text=Raul%20Ramirez&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
+<img src="https://capsule-render.vercel.app/api?type=blur&height=280&color=0:000000,50:111827,100:2563eb&text=Raul%20Ramirez&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=45"/>
 
 <br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&pause=1200&color=58A6FF&center=true&vCenter=true&width=750&lines=constantly+learning...;building+cool+things...;trying+to+be+better+every+day" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=23&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=developer.;music+lover.;building+things.;always+learning." />
 
 <br><br>
 
-<img src="https://img.shields.io/github/followers/TU_USUARIO?style=flat-square&color=1f6feb&labelColor=0d1117"/>
-<img src="https://img.shields.io/github/stars/TU_USUARIO?style=flat-square&color=1f6feb&labelColor=0d1117"/>
-<img src="https://komarev.com/ghpvc/?username=TU_USUARIO&style=flat-square&color=1f6feb"/>
+<img src="https://img.shields.io/badge/status-learning-111827?style=flat-square&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/focus-fullstack-111827?style=flat-square&logo=visualstudiocode&logoColor=white"/>
+<img src="https://img.shields.io/badge/location-spain-111827?style=flat-square&logo=googlemaps&logoColor=white"/>
 
 </div>
 
 ---
 
-# hey 👋
+# who am i
 
-Soy Raul.  
-Me gusta programar, aprender cosas nuevas y pasar horas construyendo proyectos aunque luego termine rehaciendo todo desde cero.
+```js
+class Raul {
+    constructor() {
+        this.name = "Raul Ramirez";
+        this.role = "developer";
+        this.location = "Spain";
 
-Ahora mismo estoy bastante centrado en mejorar como developer y entender mejor cómo funcionan realmente las cosas por dentro.
+        this.languages = [
+            "JavaScript",
+            "Python",
+            "HTML",
+            "CSS"
+        ];
 
-También me interesa mucho la música, el diseño y todo lo que mezcle creatividad con tecnología.
+        this.currentlyLearning = [
+            "React",
+            "Next.js",
+            "TypeScript"
+        ];
+
+        this.interests = [
+            "backend",
+            "automation",
+            "music",
+            "design",
+            "AI"
+        ];
+    }
+}
+
+export default Raul;
+```
+
+---
+
+# about me
+
+Me gusta crear cosas simples pero bien hechas.  
+Paso bastante tiempo aprendiendo tecnologías nuevas, mejorando proyectos y entendiendo cómo funcionan realmente las cosas.
+
+A veces programo durante horas sin darme cuenta solo por intentar dejar algo exactamente como quiero.
+
+También me gusta mucho todo lo relacionado con música, diseño y creatividad digital.
 
 ---
 
 <div align="center">
 
-## ⚒️ tech stack
+# tech
 
 <br>
 
-<img src="https://skillicons.dev/icons?i=html,css,js,python,nodejs,bootstrap,mysql,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=html,css,js,python,nodejs,mysql,bootstrap,git,github,vscode" />
 
 </div>
 
@@ -41,7 +78,7 @@ También me interesa mucho la música, el diseño y todo lo que mezcle creativid
 
 <div align="center">
 
-## 📚 learning
+# currently learning
 
 <br>
 
@@ -51,37 +88,15 @@ También me interesa mucho la música, el diseño y todo lo que mezcle creativid
 
 ---
 
-# un poco sobre mí
-
-```js
-const raul = {
-    code: ["JavaScript", "Python", "HTML", "CSS"],
-
-    interests: [
-        "backend",
-        "automation",
-        "AI",
-        "web development",
-        "music"
-    ],
-
-    currentGoal: "becoming a really good fullstack developer",
-
-    mentality: "small progress is still progress"
-};
-```
-
----
-
 <div align="center">
 
-## 📊 github stats
+# github stats
 
 <br>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=transparent&hide_border=true&title_color=3B82F6&icon_color=3B82F6&text_color=ffffff"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=transparent&hide_border=true&title_color=3B82F6&text_color=ffffff"/>
 
 </div>
 
@@ -89,52 +104,54 @@ const raul = {
 
 <div align="center">
 
-## 🔥 streak
+# activity
 
 <br>
 
-<img src="https://streak-stats.demolab.com?user=TU_USUARIO&theme=github-dark-blue&hide_border=true&background=0d1117"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=TU_USUARIO&bg_color=000000&color=3B82F6&line=3B82F6&point=ffffff&hide_border=true"/>
 
 </div>
 
 ---
 
-# current focus
+# current mindset
 
 ```txt
-improving my backend skills
-building better projects
-learning modern technologies
-becoming more consistent
-creating things i'm proud of
+learn more.
+build more.
+think better.
+stay consistent.
 ```
 
 ---
 
-# outside coding
+# things i enjoy
 
-Me gusta la música, pasar tiempo mejorando ideas y aprender cosas nuevas aunque no sirvan para nada inmediato.
-
-Muchas veces acabo obsesionándome con pequeños detalles de diseño, estructura o estética hasta que todo se siente “bien”.
+- backend development
+- clean interfaces
+- building personal projects
+- improving details
+- music production
+- learning random tech stuff at 3am
 
 ---
 
 <div align="center">
 
-## 🌐 socials
+# socials
 
 <br>
 
 <a href="https://github.com/TU_USUARIO">
-<img src="https://img.shields.io/badge/github-0d1117?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/github-111827?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://instagram.com/TU_USUARIO">
-<img src="https://img.shields.io/badge/instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=white"/>
+<img src="https://img.shields.io/badge/instagram-111827?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
 <a href="mailto:TU_EMAIL">
-<img src="https://img.shields.io/badge/email-0d1117?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/email-111827?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </div>
@@ -143,7 +160,9 @@ Muchas veces acabo obsesionándome con pequeños detalles de diseño, estructura
 
 <div align="center">
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"/>
+```txt
+"trying to become someone my younger self would look up to."
+```
 
 </div>
 
@@ -151,6 +170,6 @@ Muchas veces acabo obsesionándome con pequeños detalles de diseño, estructura
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0d1117,100:1f6feb"/>
+<img src="https://capsule-render.vercel.app/api?type=blur&height=150&section=footer&color=0:2563eb,50:111827,100:000000"/>
 
 </div>
