@@ -1,33 +1,37 @@
 <div align="center">
 
-# Raul Ramirez
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0d1117,100:1f6feb&text=Raul%20Ramirez&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 
-### Developer • Creative Mind • Learning Every Day
+<br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+projects...;Learning+new+technologies...;Trying+to+improve+every+day" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&pause=1200&color=58A6FF&center=true&vCenter=true&width=750&lines=constantly+learning...;building+cool+things...;trying+to+be+better+every+day" />
+
+<br><br>
+
+<img src="https://img.shields.io/github/followers/TU_USUARIO?style=flat-square&color=1f6feb&labelColor=0d1117"/>
+<img src="https://img.shields.io/github/stars/TU_USUARIO?style=flat-square&color=1f6feb&labelColor=0d1117"/>
+<img src="https://komarev.com/ghpvc/?username=TU_USUARIO&style=flat-square&color=1f6feb"/>
 
 </div>
 
 ---
 
-## Sobre mí
+# hey 👋
 
-Soy un desarrollador que disfruta construir cosas, aprender tecnologías nuevas y mejorar constantemente.  
-Me interesa especialmente el desarrollo web, el backend, la automatización y la inteligencia artificial.
+Soy Raul.  
+Me gusta programar, aprender cosas nuevas y pasar horas construyendo proyectos aunque luego termine rehaciendo todo desde cero.
 
-Además del código, también me gusta la música urbana y todo lo relacionado con la creatividad digital.
+Ahora mismo estoy bastante centrado en mejorar como developer y entender mejor cómo funcionan realmente las cosas por dentro.
 
-Actualmente estoy enfocado en:
-- mejorar como desarrollador fullstack
-- crear proyectos más completos
-- aprender tecnologías modernas
-- desarrollar disciplina y consistencia
+También me interesa mucho la música, el diseño y todo lo que mezcle creatividad con tecnología.
 
 ---
 
-## Tecnologías
-
 <div align="center">
+
+## ⚒️ tech stack
+
+<br>
 
 <img src="https://skillicons.dev/icons?i=html,css,js,python,nodejs,bootstrap,mysql,git,github,vscode" />
 
@@ -35,9 +39,11 @@ Actualmente estoy enfocado en:
 
 ---
 
-## Aprendiendo ahora
-
 <div align="center">
+
+## 📚 learning
+
+<br>
 
 <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,mongodb,docker" />
 
@@ -45,48 +51,90 @@ Actualmente estoy enfocado en:
 
 ---
 
-## GitHub Stats
+# un poco sobre mí
+
+```js
+const raul = {
+    code: ["JavaScript", "Python", "HTML", "CSS"],
+
+    interests: [
+        "backend",
+        "automation",
+        "AI",
+        "web development",
+        "music"
+    ],
+
+    currentGoal: "becoming a really good fullstack developer",
+
+    mentality: "small progress is still progress"
+};
+```
+
+---
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=github_dark&hide_border=true"/>
+## 📊 github stats
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=github_dark&hide_border=true"/>
+<br>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF"/>
 
 </div>
 
 ---
 
-## Contribution Streak
-
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=TU_USUARIO&theme=github-dark-blue&hide_border=true"/>
+## 🔥 streak
+
+<br>
+
+<img src="https://streak-stats.demolab.com?user=TU_USUARIO&theme=github-dark-blue&hide_border=true&background=0d1117"/>
 
 </div>
 
 ---
 
-## Objetivos
+# current focus
 
-- Seguir aprendiendo desarrollo backend
-- Crear proyectos reales y útiles
-- Mejorar mi lógica y estructura de código
-- Aprender más sobre IA y automatización
-- Construir una buena base como developer
+```txt
+improving my backend skills
+building better projects
+learning modern technologies
+becoming more consistent
+creating things i'm proud of
+```
 
 ---
 
-## Contacto
+# outside coding
+
+Me gusta la música, pasar tiempo mejorando ideas y aprender cosas nuevas aunque no sirvan para nada inmediato.
+
+Muchas veces acabo obsesionándome con pequeños detalles de diseño, estructura o estética hasta que todo se siente “bien”.
+
+---
 
 <div align="center">
+
+## 🌐 socials
+
+<br>
 
 <a href="https://github.com/TU_USUARIO">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/github-0d1117?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://instagram.com/TU_USUARIO">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+<img src="https://img.shields.io/badge/instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="mailto:TU_EMAIL">
+<img src="https://img.shields.io/badge/email-0d1117?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </div>
@@ -95,6 +143,14 @@ Actualmente estoy enfocado en:
 
 <div align="center">
 
-> “La disciplina siempre termina superando a la motivación.”
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"/>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0d1117,100:1f6feb"/>
 
 </div>
